@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Eclipse
+Comment=eclipse
+Exec=/home/dplee/work/eclipse/eclipse
+Icon=/home/dplee/work/eclipse/eclipse-icone-9203-48.png
+Terminal=false
+Type=Application

@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Connection Manager(gcm)
+Comment=gcm
+Exec=/home/dplee/bin/cm
+Icon=/home/dplee/work/gcm-1.1.0/icon.png
+Terminal=false
+Type=Application

@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Emacs
+Comment=gui emacs
+Exec=/usr/local/bin/emacs
+Icon=/usr/local/share/icons/hicolor/48x48/apps/emacs.png
+Terminal=false
+Type=Application
